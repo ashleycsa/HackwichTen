@@ -13,6 +13,7 @@
 		AA5B87DC245AAC03000E01FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA5B87DA245AAC03000E01FB /* Main.storyboard */; };
 		AA5B87DE245AAC0B000E01FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA5B87DD245AAC0B000E01FB /* Assets.xcassets */; };
 		AA5B87E1245AAC0B000E01FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA5B87DF245AAC0B000E01FB /* LaunchScreen.storyboard */; };
+		AA5B87E9245AB0F4000E01FB /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5B87E8245AB0F4000E01FB /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AA5B87DD245AAC0B000E01FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA5B87E0245AAC0B000E01FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA5B87E2245AAC0B000E01FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA5B87E8245AB0F4000E01FB /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AA5B87D6245AAC03000E01FB /* SceneDelegate.swift */,
 				AA5B87D8245AAC03000E01FB /* ViewController.swift */,
 				AA5B87DA245AAC03000E01FB /* Main.storyboard */,
+				AA5B87E8245AB0F4000E01FB /* Restaurant.swift */,
 				AA5B87DD245AAC0B000E01FB /* Assets.xcassets */,
 				AA5B87DF245AAC0B000E01FB /* LaunchScreen.storyboard */,
 				AA5B87E2245AAC0B000E01FB /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA5B87E9245AB0F4000E01FB /* Restaurant.swift in Sources */,
 				AA5B87D9245AAC03000E01FB /* ViewController.swift in Sources */,
 				AA5B87D5245AAC03000E01FB /* AppDelegate.swift in Sources */,
 				AA5B87D7245AAC03000E01FB /* SceneDelegate.swift in Sources */,
